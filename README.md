@@ -1,3 +1,1 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&lt;3"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&width=435&lines=IT-E6+K69+HUST+%F0%9F%8E%93;Genius+is+1%25+talent+and+99%25+percent+hard+work.)](https://git.io/typing-svg)
